@@ -49,7 +49,7 @@ DISABLE_AUTO_TITLE="true"
 # Custom plugins may be added to ~/.oh-my-zsh/custom/plugins/
 # Example format: plugins=(rails git textmate ruby lighthouse)
 # Add wisely, as too many plugins slow down shell startup.
-plugins=(autojump autopep8 bower brew bundler dircycle fabric fasd gas gem git gitfast git-extras git-flow git_remote_branch github history macports mercurial mysql-macports node npm osx perl pep8 pip pod pyenv pylint python rails repo ruby rvm scala screen sublime sudo supervisor svn svn-fast-info textmate tmux tmuxinator virtualenvwrapper web-search zeus wd)
+plugins=(autojump autopep8 bower brew bundler dircycle fabric fasd gas gem git gitfast git-extras git-flow git_remote_branch github history macports mercurial mysql-macports node npm osx perl pep8 pip pod pyenv pylint python rails repo ruby rvm scala screen sublime sudo supervisor svn svn-fast-info textmate tmux tmuxinator vi-mode virtualenvwrapper web-search zeus wd)
 
 # User configuration
 
